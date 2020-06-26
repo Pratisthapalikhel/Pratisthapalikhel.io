@@ -1,0 +1,23 @@
+.aside .nav li a:hover,
+.aside .nav li a.active{
+	color: #FF7B24;
+}
+
+.aside .nav-toggler span,
+.aside .nav-toggler span:: before,
+.aside .nav-toggler span:: after {
+background-color: #ec1839;
+}
+
+
+.home .intro .social-links a 
+{
+	background-color:   #707070;
+}
+/*about section heading lines*/
+.about .about-content .timeline .circle-dot,
+.about .about-content .timeline .timeline-item::before ,.about .about-content  .skills .skill-item .progress .progress-in,.btn,.section-title h2::before,
+.section-title h2::after{
+	background-color: /* #FFFF33*/#FF8066;
+}
+
